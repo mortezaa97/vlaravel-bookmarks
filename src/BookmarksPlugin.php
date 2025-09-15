@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Mortezaa97\Sliders;
+namespace Mortezaa97\Bookmarks;
 
 use Filament\Contracts\Plugin;
 use Filament\Panel;
