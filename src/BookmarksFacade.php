@@ -1,11 +1,13 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Mortezaa97\Bookmarks;
 
 use Illuminate\Support\Facades\Facade;
 
 /**
- * @see \Mortezaa97\Bookmarks\Skeleton\SkeletonClass
+ * @see Skeleton\SkeletonClass
  */
 class BookmarksFacade extends Facade
 {
